@@ -19,4 +19,5 @@ echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.co
 echo 'src-git pass https://github.com/jack987-cloud/openwrt.git' >>feeds.conf.default
 echo 'src-git dockerman https://github.com/lisaac/luci-app-dockerman.git' >>feeds.conf.default
 echo 'src-git openclash https://github.com/vernesong/OpenClash.git' >>feeds.conf.default
+echo 'src-git quan https://github.com/liuran001/openwrt-packages.git' >>feeds.conf.default
 
