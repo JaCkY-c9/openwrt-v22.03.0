@@ -21,4 +21,4 @@ echo 'src-git dockerman https://github.com/lisaac/luci-app-dockerman.git' >>feed
 echo 'src-git openclash https://github.com/vernesong/OpenClash.git' >>feeds.conf.default
 mkdir -p package/parted && \
 wget https://raw.githubusercontent.com/lisaac/luci-app-diskman/master/Parted.Makefile -O package/parted/Makefile
-wget https://downloads.openwrt.org/releases/21.02.0/targets/x86/64/config.buildinfo -O .config
+
