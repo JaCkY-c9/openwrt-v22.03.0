@@ -20,3 +20,4 @@
        13.多线负载均衡（MWAN3）
 
 建议直接刷U盘做系统盘，格式化u盘剩余空间给docker挂载/opt使用
+docker可以安装aria2（下载），Jellfin（影音播放），homeassistant（智能家居），awtrix服务器等
