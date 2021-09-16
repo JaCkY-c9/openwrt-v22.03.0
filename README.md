@@ -2,12 +2,12 @@
        2.挂载点（block-mount）
        3.磁盘管理格式化软件（luci-app-diskman)
        4.自动重启（autoreboot）
-       5.Opencl**
+       5.
        6.硬盘休眠（hd-idle）
        7.Terminal终端（luci-app-ttyd）
        8.UPnP
        9.网络文件共享（Samba4）
-       10.Docker（luci-app-dockerman）
+       10.Docker（luci-app-dockerman）?????????
        11.网络文件挂载nfs（luci-app-nfs）
        12.网络打印机（luci-app-usb-printer）
        13.多线（wan）负载均衡（MWAN3）
