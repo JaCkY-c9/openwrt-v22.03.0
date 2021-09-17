@@ -1,5 +1,4 @@
-      
-  ##固件：
+固件：
        1.状态显示（netdata）
        2.挂载点（block-mount）
        3.磁盘管理格式化软件（luci-app-diskman)
