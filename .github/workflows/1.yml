@@ -20,7 +20,7 @@ env:
   UPLOAD_FIRMWARE: true
   UPLOAD_COWTRANSFER: false
   UPLOAD_WETRANSFER: false
-  UPLOAD_RELEASE: false
+  UPLOAD_RELEASE: ture
   TZ: Asia/Shanghai
 
 jobs:
@@ -60,7 +60,10 @@ jobs:
 
     - name: Update feeds
       run: cd openwrt && ./scripts/feeds update -a
-
+       
+    - name: delete dockerman
+      run: cd openwrt &&  sudo rm -rf /openwrt/package/feeds/luci-app-dockerman
+      
     - name: Install feeds
       run: cd openwrt && ./scripts/feeds install -a
 
