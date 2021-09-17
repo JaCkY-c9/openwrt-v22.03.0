@@ -60,9 +60,6 @@ jobs:
 
     - name: Update feeds
       run: cd openwrt && ./scripts/feeds update -a
-       
-    - name: delete dockerman
-      run: cd openwrt &&  sudo rm -rf /openwrt/package/feeds/luci-app-dockerman
       
     - name: Install feeds
       run: cd openwrt && ./scripts/feeds install -a
