@@ -11,8 +11,7 @@
        10.Docker（luci-app-dockerman）?????????
        11.网络文件挂载nfs（luci-app-nfs）
        12.网络打印机（luci-app-usb-printer）
-       13.多线（wan）负载均衡（MWAN3）
-       14.中文语言包（luci-i18n-base-zh-cn）
-       15.取消dnsmasq，添加dnsmasq-full
+       13.中文语言包（luci-i18n-base-zh-cn）
+       14.取消dnsmasq，添加dnsmasq-full
 
    
