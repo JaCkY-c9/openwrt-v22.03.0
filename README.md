@@ -22,7 +22,11 @@
        14.取消dnsmasq，添加dnsmasq-full
        15.LAN IP:192.168.10.1
        
-·u盘刷入系统，格式化u盘剩余储存空间，挂载为/opt用于docker使用。机械硬盘挂目录：/mnt/sdb1 作为下载及共享目录使用。
+·固件刷机：
+       
+       1.u盘刷入系统
+       2.格式化u盘剩余储存空间，挂载为/opt用于docker使用。
+       3.机械硬盘挂目录：/mnt/sdb1 作为下载及共享目录使用。
 
 
 
@@ -90,3 +94,11 @@
       -v /opt/docker/volumes/homeassistant:/config \
       --network=host \
       ghcr.io/home-assistant/home-assistant:stable
+
+·备份配置文件
+     
+·恢复配置文件
+      
+      1.fistboot
+      2.reboot
+      3.上传配置文件
