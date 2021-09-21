@@ -8,11 +8,11 @@
        7.Terminal终端（luci-app-ttyd）
        8.UPnP
        9.网络文件共享（Samba4）
-       10.Docker（luci-app-dockerman)使用lisaac源 dockerman3
+       10.Docker（luci-app-dockerman) 使用lisaac源,因官方源含有dockerman，lisaac源改名为dockerman3用于区别
        11.网络文件挂载nfs（luci-app-nfs）
        12.网络打印机（luci-app-usb-printer）
        13.中文语言包（luci-i18n-base-zh-cn）
        14.取消dnsmasq，添加dnsmasq-full
-       15.LAN IP:192.168.10.233
+       15.LAN IP:192.168.10.1
 
    
