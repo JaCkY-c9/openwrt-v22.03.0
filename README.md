@@ -8,7 +8,7 @@
        7.Terminal终端（luci-app-ttyd）
        8.UPnP
        9.网络文件共享（Samba4）
-       10.Docker（luci-app-dockerman）手动安装
+       10.Docker（luci-app-dockerman）固件编译未勾选，需手动安装
        11.网络文件挂载nfs（luci-app-nfs）
        12.网络打印机（luci-app-usb-printer）
        13.中文语言包（luci-i18n-base-zh-cn）
