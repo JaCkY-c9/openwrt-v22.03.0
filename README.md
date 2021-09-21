@@ -13,5 +13,6 @@
        12.网络打印机（luci-app-usb-printer）
        13.中文语言包（luci-i18n-base-zh-cn）
        14.取消dnsmasq，添加dnsmasq-full
+       15.LAN IP:192.168.10.1
 
    
