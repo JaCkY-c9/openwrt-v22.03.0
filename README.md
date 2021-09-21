@@ -24,7 +24,7 @@
        
 ·固件刷机：
        
-       1.u盘刷入系统
+       1.img镜像刷入u盘（mac使用 balenaEtcher https://www.balena.io/etcher/)
        2.格式化u盘剩余储存空间，挂载为/opt用于docker使用。
        3.机械硬盘挂目录：/mnt/sdb1 作为下载及共享目录使用。
 
