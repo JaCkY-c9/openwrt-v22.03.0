@@ -1,8 +1,7 @@
        1.openwrt-v21.02.1
        2.opencl**
        3.UPnP
-       4.网络打印机
-       5.中文语言包（luci-i18n-base-zh-cn）
-       6.取消dnsmasq，添加dnsmasq-full
-       7.LAN IP:192.168.10.1
+       4.中文语言包（luci-i18n-base-zh-cn）
+       5.取消dnsmasq，添加dnsmasq-full
+       6.LAN IP:192.168.10.1
        
