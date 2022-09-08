@@ -1,4 +1,4 @@
-       1.openwrt-v21.02.1
+       1.openwrt
        2.opencl**
        3.UPnP
        4.中文语言包（luci-i18n-base-zh-cn）
